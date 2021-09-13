@@ -1,0 +1,10 @@
+fasttext
+gensim
+numpy
+pandas
+tqdm
+sklearn
+seaborn
+tensorflow-gpu
+
+#tensorflow
